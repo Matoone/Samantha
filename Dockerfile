@@ -32,4 +32,4 @@ ENTRYPOINT []
 WORKDIR /app/app
 
 # Run the Chainlit application
-CMD ["chainlit", "run", "samantha.py", "-h"]
+CMD ["chainlit", "run", "samantha.py"]
